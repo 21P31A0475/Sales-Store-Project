@@ -1,5 +1,3 @@
-Sales Store Management System 
-
 Project Overview
 
 The Sales Store Management System is a database-driven project designed to efficiently store, manage, and analyze retail sales transactions within a store environment. This system centralizes customer data, product information, transactions, payments, and sales records, enabling accurate revenue tracking and data-driven business decision-making using SQL.
@@ -112,8 +110,5 @@ This Sales Store Management System demonstrates how structured relational databa
 3. Enable detailed retail performance analysis
 4. Support strategic business decisions
 5. Enhance operational efficiency
+   
 It reflects strong understanding of relational database design, normalization, SQL querying, and real-world retail analytics workflows.
-
-Author
-B. Chaitanya
-Batch 435 – Innomatics Research Labs
