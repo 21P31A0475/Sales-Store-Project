@@ -8,6 +8,7 @@ The project transforms raw transactional data into a normalized relational datab
 Business Problem
 
 In many retail stores, sales data is stored in spreadsheets or raw formats, leading to:
+
 1. Data duplication across product and customer records
 2. Inconsistent transaction tracking
 3. Difficulty analyzing revenue trends
@@ -75,6 +76,7 @@ Using SQL concepts such as:
 4. Date & Time functions
 5. CASE statements
 6. Subqueries
+   
 The system generates meaningful insights related to:
 1. Product-wise and category-wise revenue distribution
 2. Customer purchasing behavior analysis
