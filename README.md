@@ -112,14 +112,8 @@ This Sales Store Management System demonstrates how structured relational databa
 3. Enable detailed retail performance analysis
 4. Support strategic business decisions
 5. Enhance operational efficiency
+   
+It reflects strong understanding of relational database design, normalization, SQL querying, and real-world retail analytics work
 
 ## Author 
 B. Chaitanya
-
-
-
-
-
-
-
-It reflects strong understanding of relational database design, normalization, SQL querying, and real-world retail analytics workflows.
