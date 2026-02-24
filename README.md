@@ -31,7 +31,7 @@ The system follows a normalized relational database structure to ensure accuracy
 
 Key Tables:
 
-1 Sales_Staging Table – Raw imported transaction dataset
+1. Sales_Staging Table – Raw imported transaction dataset
 2. Customers Table – Customer details (ID, Name, Age, Gender)
 3. Products Table – Product details (ID, Name, Category, Price)
 4. Transactions Table – Transaction metadata (Date, Time, Status)
