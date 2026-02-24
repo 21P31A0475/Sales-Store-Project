@@ -29,7 +29,7 @@ Database Design
 
 The system follows a normalized relational database structure to ensure accuracy, eliminate redundancy, and maintain referential integrity.
 
-Key Tables
+Key Tables:
 
 1 Sales_Staging Table – Raw imported transaction dataset
 2. Customers Table – Customer details (ID, Name, Age, Gender)
@@ -37,6 +37,7 @@ Key Tables
 4. Transactions Table – Transaction metadata (Date, Time, Status)
 5. Payments Table – Payment mode information
 6. Transaction_Items Table – Product-level transaction records
+
 Foreign key constraints were implemented to establish clear relationships between customers, transactions, products, and payments.
 
 ER Diagram
